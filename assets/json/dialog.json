@@ -28,6 +28,12 @@
 		},
 
 		{
+			"speaker" : "itachi",
+			"dialog" : "this is so boring please shut up"
+
+		},
+
+		{
 			"speaker" : "homer",
 			"dialog" : "Many cities did he visit, and many were the nations with whose manners and customs he was acquainted.",
 			"newSpeaker" : "true"
@@ -47,13 +53,6 @@
 		{	
 			"speaker" : "homer",
 			"dialog" : "Tell me, too, about all these things, O daughter of Jove, from whatsoever source you may know them."
-		},
-
-		{
-			"speaker" : "itachi",
-			"dialog" : "this is so boring please shut up",
-			"newSpeaker": "true"
-
 		}
 	],
 	[
