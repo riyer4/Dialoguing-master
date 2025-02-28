@@ -47,6 +47,13 @@
 		{	
 			"speaker" : "homer",
 			"dialog" : "Tell me, too, about all these things, O daughter of Jove, from whatsoever source you may know them."
+		},
+
+		{
+			"speaker" : "itachi",
+			"dialog" : "this is so boring please shut up",
+			"newSpeaker": "true"
+
 		}
 	],
 	[
